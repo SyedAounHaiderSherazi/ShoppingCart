@@ -1,0 +1,7 @@
+P1 Board_marker 40
+P2 Ink 70
+P3 High_Lighter 60
+P4 Paper-Clip 120
+P5 Stapler 20
+P7 Scale 15
+P11 QWE 12

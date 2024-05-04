@@ -1,0 +1,4 @@
+PID	Quantity	Price	Total
+P7	5	15	75
+P5	50	20	1000
+Total Bill is: 1075
